@@ -35,8 +35,11 @@ Body:
   GROUP BY d.department_id, d.department_name
   ORDER BY d.department_id DESC;"
 }
-Submission Screenshot:
-https://github.com/DivyasriMorimisetty/Bajaj_Finserv_Assignment_22BCE20263/blob/754987b463a74d1a182c147781d746c17ca34556/Screenshot%202025-12-01%20161050.png
+## Submission Screenshot
 
-Success proof:
-https://github.com/DivyasriMorimisetty/Bajaj_Finserv_Assignment_22BCE20263/blob/839d469e513c532c8b753f853d97b700a19baba4/Screenshot%202025-12-01%20161358.png
+![Submission Screenshot](https://github.com/DivyasriMorimisetty/Bajaj_Finserv_Assignment_22BCE20263/blob/main/Screenshot%202025-12-01%20161050.png)
+
+## Success Proof
+
+![Success Proof](https://github.com/DivyasriMorimisetty/Bajaj_Finserv_Assignment_22BCE20263/blob/main/Screenshot%202025-12-01%20161358.png)
+
