@@ -35,3 +35,7 @@ Body:
   GROUP BY d.department_id, d.department_name
   ORDER BY d.department_id DESC;"
 }
+Submission Screenshot:
+https://github.com/DivyasriMorimisetty/Bajaj_Finserv_Assignment_22BCE20263/blob/754987b463a74d1a182c147781d746c17ca34556/Screenshot%202025-12-01%20161050.png
+
+Success state:
