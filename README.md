@@ -21,6 +21,14 @@ https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA
 Header:
 Authorization: JWT Token
 
+## Submission Screenshot
+
+![Submission Screenshot](https://raw.githubusercontent.com/DivyasriMorimisetty/Bajaj_Finserv_Assignment_22BCE20263/main/Screenshot%202025-12-01%20161050.png)
+
+## Success Proof
+
+![Success Proof](https://raw.githubusercontent.com/DivyasriMorimisetty/Bajaj_Finserv_Assignment_22BCE20263/main/Screenshot%202025-12-01%20161358.png)
+
 Body:
 ```json
 {
@@ -35,11 +43,7 @@ Body:
   GROUP BY d.department_id, d.department_name
   ORDER BY d.department_id DESC;"
 }
-## Submission Screenshot
 
-![Submission Screenshot](https://raw.githubusercontent.com/DivyasriMorimisetty/Bajaj_Finserv_Assignment_22BCE20263/main/Screenshot%202025-12-01%20161050.png)
 
-## Success Proof
 
-![Success Proof](https://raw.githubusercontent.com/DivyasriMorimisetty/Bajaj_Finserv_Assignment_22BCE20263/main/Screenshot%202025-12-01%20161358.png)
 
