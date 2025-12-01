@@ -37,9 +37,9 @@ Body:
 }
 ## Submission Screenshot
 
-![Submission Screenshot](https://github.com/DivyasriMorimisetty/Bajaj_Finserv_Assignment_22BCE20263/blob/main/Screenshot%202025-12-01%20161050.png)
+![Submission Screenshot](https://raw.githubusercontent.com/DivyasriMorimisetty/Bajaj_Finserv_Assignment_22BCE20263/main/Screenshot%202025-12-01%20161050.png)
 
 ## Success Proof
 
-![Success Proof](https://github.com/DivyasriMorimisetty/Bajaj_Finserv_Assignment_22BCE20263/blob/main/Screenshot%202025-12-01%20161358.png)
+![Success Proof](https://raw.githubusercontent.com/DivyasriMorimisetty/Bajaj_Finserv_Assignment_22BCE20263/main/Screenshot%202025-12-01%20161358.png)
 
